@@ -1,0 +1,9 @@
+packages/
+*.exe
+*.dll
+obj/
+bin/
+*.user
+~*
+*.suo
+*.ide
